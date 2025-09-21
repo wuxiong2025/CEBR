@@ -21,6 +21,13 @@ The CEBR (Common Elements of Band Representation) is a lightweight Python progra
   - J. Gao, et al. "Unconventional superconductivity in infinite-layer nickelates from band representation analysis," Sci. Bull. 67, 598 (2022). https://doi.org/10.1016/j.scib.2021.12.025
   - S. Nie, et al. "Band representations for topological quantum chemistry," Phys. Rev. B 103, 205133 (2021). https://doi.org/10.1103/PhysRevB.103.205133
 
+- Bilbao Crystallographic Server:
+  - Website: https://www.cryst.ehu.es/cgi-bin/cryst/programs/bandrep.pl
+  - Bradlyn et al. "Topological quantum chemistry" Nature (2017). 547, 298-305. doi:10.1038/nature23268
+  - Vergniory et al. "Graph theory data for topological quantum chemistry" Phys. Rev. E (2017). 96, 023310. doi:10.1103/PhysrevE.96.023310
+  - Elcoro et al. "Double crystallographic groups and their representations on the Bilbao Crystallographic Server" J. of Appl. Cryst. (2017). 50, 1457-1477. doi:10.1107/S1600576717011712
+
+
 ## Usage Instructions
 
 1. **Prepare Input Files**
@@ -48,6 +55,7 @@ The program outputs a structured analysis of the band representations, including
 - Summary of BRs for both orbital types
 - Conclusion about the presence of p-d orbital coupling
 Example output:
+```
 +------------------+
 | Space group: 225 |
 +------------------+
@@ -73,4 +81,5 @@ The BRs of d orbitals : {'Γ3+', 'Γ5+'}
 
 The BRs of p orbitals and d orbitals are mismatch.
 ******************************************************
+```
 In this example, there are no common elements between the band representations of p-orbitals and d-orbitals, indicating no p-d orbital coupling at the Γ point.
