@@ -43,10 +43,6 @@ The CEBR (Common Elements of Band Representation) is a lightweight Python progra
      python CEBR.py
      ```
 
-4. **Interpret Results**
-   - The program will display common irreducible representations (if any)
-   - Presence of common elements indicates p-d orbital coupling at the Γ point
-
 ## Output Explanation
 The program outputs a structured analysis of the band representations, including:
 
