@@ -47,7 +47,7 @@ The CEBR (Common Elements of Band Representation) is a lightweight Python progra
 The program outputs a structured analysis of the band representations, including:
 
 - Space group information
-- Tabulated data for p-orbitals and d-orbitals with Wyckoff positions, band representations, ABRs, and BRs
+- Tabulated data for p-orbitals and d-orbitals with Wyckoff positions, band representation, ABRs, and BRs
 - Summary of BRs for both orbital types
 - Conclusion about the presence of p-d orbital coupling
 Example output:
