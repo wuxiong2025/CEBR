@@ -1,4 +1,4 @@
-# CEBR: Common Elements of Band Representation
+# CEBR: Common Elements of Band Representations
 
 A simple Python program to determine p-d orbital coupling at the Γ point in materials.
 
