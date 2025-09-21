@@ -23,9 +23,9 @@ The CEBR (Common Elements of Band Representation) is a lightweight Python progra
 
 - Bilbao Crystallographic Server:
   - Website: https://www.cryst.ehu.es/cgi-bin/cryst/programs/bandrep.pl
-  - Bradlyn et al. "Topological quantum chemistry" Nature (2017). 547, 298-305. doi:10.1038/nature23268
-  - Vergniory et al. "Graph theory data for topological quantum chemistry" Phys. Rev. E (2017). 96, 023310. doi:10.1103/PhysrevE.96.023310
-  - Elcoro et al. "Double crystallographic groups and their representations on the Bilbao Crystallographic Server" J. of Appl. Cryst. (2017). 50, 1457-1477. doi:10.1107/S1600576717011712
+  - Bradlyn et al. "Topological quantum chemistry" Nature (2017). 547, 298-305. https://www.nature.com/articles/nature23268
+  - Vergniory et al. "Graph theory data for topological quantum chemistry" Phys. Rev. E (2017). 96, 023310. https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.023310
+  - Elcoro et al. "Double crystallographic groups and their representations on the Bilbao Crystallographic Server" J. of Appl. Cryst. (2017). 50, 1457-1477. https://journals.iucr.org/paper?S1600576717011712
 
 
 ## Usage Instructions
